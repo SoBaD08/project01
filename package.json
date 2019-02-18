@@ -1,0 +1,27 @@
+{
+  "name": "samlee",
+  "version": "1.0.0",
+  "description": "Demo on how to use Cloudinary",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Cloudinary"
+  ],
+  "author": "Christian Nwamba",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.13.2",
+    "connect-multiparty": "^2.2.0",
+    "ejs": "^2.6.1",
+    "eosjs": "^16.0.9",
+    "express": "^4.16.4",
+    "mongoose": "^4.13.18",
+    "morgan": "^1.9.1"
+  }
+}
